@@ -1,0 +1,47 @@
+<section>
+				<h2 id = "section1">section 1</h2>
+				<p>
+				<div class = "theorem">
+					<br>
+					\(\implies\) \(\frac{d}{dx}(\frac{\sqrt{x^2 + a^2}}{v_{1}}+\frac{\sqrt{(l-x)^2+b^2}}{v_{2}}) = 0\)
+					<br>
+					\(\implies\) \(\frac{x}{v_{1}\sqrt{x^2 + a^2}}-\frac{(l-x)}{v_{2}\sqrt{(l-x)^2+b^2}} = 0\)
+					<br>
+					Given that the solution of the Brachistochrone happens to be the curve created by a Cycloid, it would only make sense for us to derive the parametric equations of a Cycloid before we proceed to presenting any proofs, in order for us to recognise the solution once we get there.
+
+				</div>
+				<div class = "theorem">
+					<br>
+					\(\implies\) \(\frac{d}{dx}(\frac{\sqrt{x^2 + a^2}}{v_{1}}+\frac{\sqrt{(l-x)^2+b^2}}{v_{2}}) = 0\)
+					<br>
+					\(\implies\) \(\frac{x}{v_{1}\sqrt{x^2 + a^2}}-\frac{(l-x)}{v_{2}\sqrt{(l-x)^2+b^2}} = 0\)
+					<br>
+					Now by inspecting the 2 triangles produced by the diagram, we see that \(\sin{\theta_{1}} = \frac{x}{|QO|}\)
+				</div>
+				</p>
+			</section>
+			
+			<section>
+				<h2 id = "section2">section 2</h2>
+				<p>
+				<div class = "theorem">
+					<br>
+					\(\implies\) \(\frac{d}{dx}(\frac{\sqrt{x^2 + a^2}}{v_{1}}+\frac{\sqrt{(l-x)^2+b^2}}{v_{2}}) = 0\)
+					<br>
+					\(\implies\) \(\frac{x}{v_{1}\sqrt{x^2 + a^2}}-\frac{(l-x)}{v_{2}\sqrt{(l-x)^2+b^2}} = 0\)
+					<br>
+					Given that the solution of the Brachistochrone happens to be the curve created by a Cycloid, it would only make sense for us to derive the parametric equations of a Cycloid before we proceed to presenting any proofs, in order for us to recognise the solution once we get there.
+
+				</div>
+				<div class = "theorem">
+					<br>
+					<ul>
+					  <li>Coffee</li>
+					  <li>Tea</li>
+					  <li>Milk</li>
+					</ul>
+
+					
+				</div>
+				</p>
+			</section>
