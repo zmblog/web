@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<button id="dark-mode-toggle">Toggle dark mode</button>
+		document
+		  .querySelector("#dark-mode-toggle")
+		  .addEventListener('click', () => {
+		     document.body.classList.toggle("latex-dark");
+		  });
 		<title>zayaanmk</title>
 		<link rel="stylesheet" href="https://latex.now.sh/style.min.css" />
 
@@ -12,20 +18,17 @@
 			
 		</header>
 		<main>
-			<div class="abstract">
-				<h2>Website Abstract</h2>
-				<p><strong> This website is essentially a personal page, dedicated to a weekly blog which documents my
-				  pursuits this summer; from algebra to real analysis and codeforces to flask and django, I hope to spend my summer
-				  learning and improving my skills in a wide range of areas in mathematics and computer science (Yes I am aware I am 20 days into it already).
-				  Also this helps me improve my Latex typsetting skills, as well as upload notes on topics such as those mentioned above for... randoms, to use I suppose.
-				  I also will aim to provide abstracts for each page as to avoid confusion about the purpose of each page. 
-				  <br><br>
-				  Note that the formatting and style of this webpage comes from 
-				  <a href="https://github.com/vincentdoerig/latex-css">this GitHub link</a>, which I somehow randomly came accross
-				  when searching how to convert a pdf not in Latex formatting, well, to Latex formatting lol.
-				  It was one of the main reasons I was inspired to do this tbh. If you can't tell already, I like Latex very much.
-				</strong></p>
-			  </div>
+			
+			<h2>About Me</h2>
+			<p> Hi! I'm Zayaan Mulla, a 2nd year student studying Mathematics and Computer Science at the University of Waterloo. My main areas of study have been in Algebra and Combinatorics, however,
+				more recently I have been taking an interest in areas of Theoretical Computer Science and Machine Learning (in particular LLM's!).
+			Note that the formatting and style of this webpage comes from 
+			<a href="https://github.com/vincentdoerig/latex-css">this GitHub link</a>, which I somehow randomly came accross
+			when searching how to convert a pdf not in Latex formatting, well, to Latex formatting lol.
+			It was one of the main reasons I was inspired to do this tbh. If you can't tell already, I like Latex very much.
+			</p>
+			
+			<h2>Projects</h2>
 			<h2>Contents</h2>
 			<nav role="navigation">
 			<ol>
