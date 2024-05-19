@@ -1,2 +1,1 @@
-#zmblog
-#idk some random shit
+Personal Website containing notes, papers i'm reading, and projects i'm working on. Check it out on zmblog.github.io!
